@@ -1,0 +1,6 @@
+{
+  "name": "Trustify",
+  "description": "AI-Powered Fact-Checker for verifying text and scanning URLs using Gemini, Tavily, and VirusTotal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
